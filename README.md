@@ -73,7 +73,7 @@
 
 ### Browsers
 
-- [Stedding](https://stedding.dev/) - Open-source browser on Chromium with an Arc-style sidebar, Spaces, pinned tabs and folders. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon]
+- [Stedding](https://stedding.dev/) - Open-source browser on Chromium with an Arc-style sidebar, Spaces, pinned tabs and folders. [![Open-Source Software][OSS Icon]](https://github.com/ysalitrynskyi/stedding-browser) ![Freeware][Freeware Icon] ![Freeware][freeware icon light]
 
 ### Chat Clients
 
